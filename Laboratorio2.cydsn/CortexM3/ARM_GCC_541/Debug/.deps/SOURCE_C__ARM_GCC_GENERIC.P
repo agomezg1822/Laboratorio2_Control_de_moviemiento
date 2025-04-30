@@ -1,66 +1,82 @@
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/Button.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/Button_aliases.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/Clock.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/CyLib.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/CySpc.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/ENB.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/ENB_aliases.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/IN3.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/IN3_aliases.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/IN4.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/IN4_aliases.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/PWM.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/UART.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/UART_IntClock.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_compiler.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/core_cm3.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cyPm.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cydevice.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cypins.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cytypes.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/project.h C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/main.c 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Button.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Button_aliases.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/C1.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/C1_aliases.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/C2.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/C2_aliases.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Clock.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Clock_1.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/CyDmac.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/CyFlash.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/CyLib.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/CySpc.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/ENB.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/ENB_aliases.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Encoder.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Encoder_Cnt16.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Encoder_Cnt8.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/IN3.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/IN3_aliases.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/IN4.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/IN4_aliases.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/PWM.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/UART.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/UART_IntClock.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_compiler.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/core_cm3.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cyPm.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cydevice.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cyfitter.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cypins.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cytypes.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/project.h C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/main.c 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/Button.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Button.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/Button_aliases.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Button_aliases.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/Clock.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/C1.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/C1_aliases.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/C2.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/CyLib.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/C2_aliases.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/CySpc.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Clock.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/ENB.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Clock_1.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/ENB_aliases.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/CyDmac.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/IN3.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/CyFlash.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/IN3_aliases.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/CyLib.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/IN4.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/CySpc.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/IN4_aliases.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/ENB.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/PWM.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/ENB_aliases.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/UART.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Encoder.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/UART_IntClock.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Encoder_Cnt16.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/Encoder_Cnt8.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_compiler.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/IN3.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/IN3_aliases.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/IN4.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/IN4_aliases.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cyPm.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/PWM.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/UART.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cydevice.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/UART_IntClock.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_compiler.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/core_cm3.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cypins.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/cytypes.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cyPm.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/Generated_Source/PSoC5/project.h : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
 
-C:/Users/andre/OneDrive/Documentos/PSoC\ Creator/Laboratorio2/Laboratorio2.cydsn/main.c : 
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/Generated_Source/PSoC5/project.h : 
+
+C:/UNIVERSIDAD/control/Lab2/Laboratorio2_Control_de_moviemiento/Laboratorio2.cydsn/main.c : 
 

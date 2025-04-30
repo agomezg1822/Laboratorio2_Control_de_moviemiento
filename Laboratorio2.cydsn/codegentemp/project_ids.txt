@@ -1,6 +1,6 @@
-C:\Users\andre\OneDrive\Documentos\PSoC Creator\Laboratorio2\Laboratorio2.cydsn\Laboratorio2.cyprj|6af9f2f9-569d-4caa-82a5-56a81e3ae78a
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|9f21cefa-f0e3-4f44-bbe4-3a6d301321cf
-C:\Users\andre\OneDrive - Universidad Distrital Francisco José de Caldas\Documentos\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|cd4e5ccb-b9b3-408c-b4cb-5a41e008bd46
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|2ea6f7b2-6893-4c9b-b30e-2dae4b4682bb
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|d38620f9-6f17-4b1a-b310-9d2270306438
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|7974c842-dad9-4a56-a404-1969eed9a0b0
+C:\UNIVERSIDAD\control\Lab2\Laboratorio2_Control_de_moviemiento\Laboratorio2.cydsn\Laboratorio2.cyprj|63c8cb5b-c3e8-4351-84e6-9ee6499d0f30
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0faffa2c-8d59-40be-9e9d-7a8351396645
+C:\Users\andre\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|b17136f9-35eb-4d13-a834-5639c1757e9f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1e6feb2d-c5a7-40be-9edf-5a835a230e3f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a4864996-6acf-4b77-9766-dabf80c819f5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ec785f04-335b-4d3d-8c1b-0b05f8781354

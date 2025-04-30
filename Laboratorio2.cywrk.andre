@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Laboratorio2\Laboratorio2\Source Files\main.c">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
 <ExpandedNodeIds>
 <v>Laboratorio2</v>
 <v>Laboratorio2\Laboratorio2</v>
@@ -36,6 +36,16 @@
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
+<v>Laboratorio2</v>
+<v>Laboratorio2\Laboratorio2</v>
+<v>Laboratorio2\Laboratorio2\TopDesign</v>
+<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr</v>
+<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Pins</v>
+<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Analog</v>
+<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Clocks</v>
+<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Interrupts</v>
+<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\DMA</v>
+<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\System</v>
 <v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Directives</v>
 <v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Flash Security</v>
 <v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\EEPROM</v>
@@ -46,26 +56,16 @@
 <v>Laboratorio2\Laboratorio2\Generated_Source</v>
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5</v>
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\Button</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\C1</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\C2</v>
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\Clock</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\Clock_1</v>
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cy_boot</v>
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\ENB</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\Encoder</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\Encoder_Cnt8</v>
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\IN3</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\IN4</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\PWM</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\UART</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\UART_IntClock</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cycodeshareexport.ld</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cycodeshareimport.ld</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cycodeshareimport.scat</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevice.h</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevice_trm.h</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevicegnu.inc</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydeviceiar.inc</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevicerv.inc</v>
-<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -91,7 +91,10 @@
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Button.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\C1.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\C2.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
@@ -104,6 +107,10 @@
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\ENB.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Encoder.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Encoder_Cnt8.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Encoder_Cnt8_PM.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Encoder_PM.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\IN3.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\IN4.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
@@ -129,7 +136,10 @@
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Button.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\C1.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\C2.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
@@ -142,16 +152,13 @@
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\ENB.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Encoder.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Encoder_Cnt8.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Encoder_Cnt8_PM.lst</v>
+<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\Encoder_PM.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\IN3.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\IN4.lst</v>
 <v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
-<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
-<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
-<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
-<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
-<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
-<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
-<v>Laboratorio2\Laboratorio2\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -166,10 +173,13 @@
 <v>Laboratorio2\Laboratorio2\PSoC 5LP Architecture TRM</v>
 <v>Laboratorio2\Laboratorio2\CY8C58LP Family Datasheet</v>
 <v>Laboratorio2\Laboratorio2\System Reference Guides</v>
-<v>Laboratorio2\Laboratorio2\cy_clock_v2_20.pdf</v>
+<v>Laboratorio2\Laboratorio2\System Reference Guides\cy_boot_v6_10</v>
+<v>Laboratorio2\Laboratorio2\cy_clock_v2_20</v>
+<v>Laboratorio2\Laboratorio2\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
 <v>Laboratorio2\Laboratorio2\cy_pins_v2_20</v>
 <v>Laboratorio2\Laboratorio2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>Laboratorio2\Laboratorio2\PWM_v3_30.pdf</v>
+<v>Laboratorio2\Laboratorio2\QuadDec_v3_0.pdf</v>
 <v>Laboratorio2\Laboratorio2\UART_v2_50.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
@@ -178,10 +188,13 @@
 <v>Laboratorio2\Laboratorio2\PSoC 5LP Architecture TRM</v>
 <v>Laboratorio2\Laboratorio2\CY8C58LP Family Datasheet</v>
 <v>Laboratorio2\Laboratorio2\System Reference Guides</v>
-<v>Laboratorio2\Laboratorio2\cy_clock_v2_20.pdf</v>
+<v>Laboratorio2\Laboratorio2\System Reference Guides\cy_boot_v6_10</v>
+<v>Laboratorio2\Laboratorio2\cy_clock_v2_20</v>
+<v>Laboratorio2\Laboratorio2\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
 <v>Laboratorio2\Laboratorio2\cy_pins_v2_20</v>
 <v>Laboratorio2\Laboratorio2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>Laboratorio2\Laboratorio2\PWM_v3_30.pdf</v>
+<v>Laboratorio2\Laboratorio2\QuadDec_v3_0.pdf</v>
 <v>Laboratorio2\Laboratorio2\UART_v2_50.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
@@ -192,7 +205,6 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\Laboratorio2.cydsn\Laboratorio2.cydwr" />
 <name v=".\Laboratorio2.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\Laboratorio2.cydsn\main.c" />
 </OpenDocs>
@@ -202,7 +214,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1089, 424" SelectedTabbedMdiWindow="c2d13756-89c4-430f-a4f5-e012f84a06c8"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="c97c8661-c26c-4130-8eb2-98eaa7f17901" /><DocumentWindow Key="C:\Users\andre\Universidad_codigo\control_de_movimiento\Laboratorio2\Laboratorio2.cydsn\Laboratorio2.cydwr" Guid="38ab6735-2402-4be6-ab04-46a16bdb0ddc" /><DocumentWindow Key="C:\Users\andre\Universidad_codigo\control_de_movimiento\Laboratorio2\Laboratorio2.cydsn\TopDesign\TopDesign.cysch" Guid="c2d13756-89c4-430f-a4f5-e012f84a06c8" /><DocumentWindow Key="C:\Users\andre\Universidad_codigo\control_de_movimiento\Laboratorio2\Laboratorio2.cydsn\main.c" Guid="16fbbe90-d446-4a5e-aa76-5ffa20da2328" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="885, 424" SelectedTabbedMdiWindow="84cc5242-8217-4586-8014-5d1487c87a09"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="c97c8661-c26c-4130-8eb2-98eaa7f17901" /><DocumentWindow Key="C:\UNIVERSIDAD\control\Lab2\Laboratorio2_Control_de_moviemiento\Laboratorio2.cydsn\TopDesign\TopDesign.cysch" Guid="84cc5242-8217-4586-8014-5d1487c87a09" /><DocumentWindow Key="C:\UNIVERSIDAD\control\Lab2\Laboratorio2_Control_de_moviemiento\Laboratorio2.cydsn\main.c" Guid="69503bdf-682f-4526-be8c-8d0a3f2e8906" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

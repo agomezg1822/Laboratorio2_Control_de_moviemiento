@@ -12,37 +12,50 @@ envio_serial= serial.Serial(puerto_serial,baud_rate)
 
 ##FUNCIONES DE LOS BOTONES
 
+def envioTotal():
+    global pwm_val, direccion_actual
+    pwm = int(pwm_val)  # Convertir el valor del slider a entero
+    mensaje = f"{direccion_actual}{int(pwm):03d}\n"
+    print(f"Enviando: {mensaje.encode()}")  # Imprimir en consola para depuración
+    envio_serial.write(mensaje.encode())  # Enviar el comando al puerto serial
+    
+
 def motor_derecha():
+    global direccion_actual
+    direccion_actual = "D"  # Dirección de giro a la derecha
     label_estado.configure(text="Estado del motor: girando a la derecha")
-    serial = (f"D\n".encode()) #D de derecha
-    envio_serial.write(serial) 
-    serial = pwm_val
-    print(f"Motor girando a la derecha: {serial}")
-    envio_serial.write(serial)  # Enviar el comando al puerto serial
+    envioTotal()
+    
 
 
 def motor_izquierda():
+    global direccion_actual
+    direccion_actual = "I"  # Dirección de giro a la izquierda
     label_estado.configure(text="Estado del motor: girando a la izquierda")
-    serial = (f"I\n".encode()) #I de izquierda
-    envio_serial.write(serial) 
-    print(f"Motor girando a la izquierda: {serial}")
-    serial = pwm_val
-    print(serial)
-    envio_serial.write(serial)  # Enviar el comando al puerto serial
+    envioTotal() 
+    
 
 def motor_stop():
+    global direccion_actual
+    direccion_actual = "S"  # Detener el motor
     label_estado.configure(text="Estado del motor: detenido")
-    serial = (f"S\n".encode()) #S de stop
-    print(f"Motor detenido: {serial}")
-    envio_serial.write(serial)  # Enviar el comando al puerto serial
+    envioTotal()  # Enviar el comando al puerto serial
+    
 
+
+
+#FUNCION DEL SLIDER
 def slider_value(pwm_value):
     label_slider.configure(text=f"PWM: {int(pwm_value)}")
-    serial = (f"{int(pwm_value)}\n".encode())  
-    pwm_val = pwm_value  # Convertir el valor del slider a entero
-    #print(f"Enviando PWM: {serial}") 
-    print(f"Enviando PWM: {pwm_val}")
-    envio_serial.write(serial)  # Enviar el valor PWM al puerto serial
+    global pwm_val
+    pwm_val = int(pwm_value)  
+    envioTotal() 
+    
+
+#FUNCION DE LA VELOCIDAD DEL MOTOR
+def velocidad_motor(velocidad):
+    label_velocidad.configure(text=f"Velocidad del motor: {int(velocidad)} RPM")
+    
 
 
 
@@ -51,7 +64,7 @@ ctk.set_appearance_mode("default")  # Modes: "system" (default), "light", "dark"
 ctk.set_default_color_theme("dark-blue")
 
 ventana = ctk.CTk()
-ventana.geometry("400x400") #ancho x alto
+ventana.geometry("400x450") #ancho x alto
 ventana.title("Laboratorio 2")
 
 ##BOTONES
@@ -73,6 +86,10 @@ label_slider.pack()
 ##LABEL ESTADO DEL MOTOR
 label_estado = ctk.CTkLabel(ventana, text="Estado del motor: detenido")
 label_estado.pack(pady=20)
+
+#LABEL VELOCIDAD DEL MOTOR
+label_velocidad = ctk.CTkLabel(ventana, text="Velocidad del motor: 0")
+label_velocidad.pack(pady=20)
 
 ventana.mainloop()
 
