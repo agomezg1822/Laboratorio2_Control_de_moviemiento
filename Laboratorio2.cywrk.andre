@@ -36,16 +36,6 @@
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
-<v>Laboratorio2</v>
-<v>Laboratorio2\Laboratorio2</v>
-<v>Laboratorio2\Laboratorio2\TopDesign</v>
-<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr</v>
-<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Pins</v>
-<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Analog</v>
-<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Clocks</v>
-<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Interrupts</v>
-<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\DMA</v>
-<v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\System</v>
 <v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Directives</v>
 <v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\Flash Security</v>
 <v>Laboratorio2\Laboratorio2\Laboratorio2.cydwr\EEPROM</v>
@@ -66,6 +56,16 @@
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\UART</v>
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\UART_IntClock</v>
 <v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevice.h</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>Laboratorio2\Laboratorio2\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -166,7 +166,6 @@
 <v>Laboratorio2\Laboratorio2\PSoC 5LP Architecture TRM</v>
 <v>Laboratorio2\Laboratorio2\CY8C58LP Family Datasheet</v>
 <v>Laboratorio2\Laboratorio2\System Reference Guides</v>
-<v>Laboratorio2\Laboratorio2\System Reference Guides\cy_boot_v6_10</v>
 <v>Laboratorio2\Laboratorio2\cy_clock_v2_20.pdf</v>
 <v>Laboratorio2\Laboratorio2\cy_pins_v2_20</v>
 <v>Laboratorio2\Laboratorio2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
@@ -179,7 +178,6 @@
 <v>Laboratorio2\Laboratorio2\PSoC 5LP Architecture TRM</v>
 <v>Laboratorio2\Laboratorio2\CY8C58LP Family Datasheet</v>
 <v>Laboratorio2\Laboratorio2\System Reference Guides</v>
-<v>Laboratorio2\Laboratorio2\System Reference Guides\cy_boot_v6_10</v>
 <v>Laboratorio2\Laboratorio2\cy_clock_v2_20.pdf</v>
 <v>Laboratorio2\Laboratorio2\cy_pins_v2_20</v>
 <v>Laboratorio2\Laboratorio2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
@@ -194,8 +192,8 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\Laboratorio2.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\Laboratorio2.cydsn\Laboratorio2.cydwr" />
+<name v=".\Laboratorio2.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\Laboratorio2.cydsn\main.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
@@ -204,7 +202,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1041, 415" SelectedTabbedMdiWindow="b3a8ff15-4e0c-4e28-b89c-fcea4464a2e0"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="c97c8661-c26c-4130-8eb2-98eaa7f17901" /><DocumentWindow Key="C:\Users\andre\OneDrive\Documentos\PSoC Creator\Laboratorio2\Laboratorio2.cydsn\TopDesign\TopDesign.cysch" Guid="2ebd822f-a613-4729-b067-015fae228f7c" /><DocumentWindow Key="C:\Users\andre\OneDrive\Documentos\PSoC Creator\Laboratorio2\Laboratorio2.cydsn\Laboratorio2.cydwr" Guid="b7b87e8b-8c25-4841-be12-baa95511db05" /><DocumentWindow Key="C:\Users\andre\OneDrive\Documentos\PSoC Creator\Laboratorio2\Laboratorio2.cydsn\main.c" Guid="b3a8ff15-4e0c-4e28-b89c-fcea4464a2e0" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1089, 424" SelectedTabbedMdiWindow="c2d13756-89c4-430f-a4f5-e012f84a06c8"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="c97c8661-c26c-4130-8eb2-98eaa7f17901" /><DocumentWindow Key="C:\Users\andre\Universidad_codigo\control_de_movimiento\Laboratorio2\Laboratorio2.cydsn\Laboratorio2.cydwr" Guid="38ab6735-2402-4be6-ab04-46a16bdb0ddc" /><DocumentWindow Key="C:\Users\andre\Universidad_codigo\control_de_movimiento\Laboratorio2\Laboratorio2.cydsn\TopDesign\TopDesign.cysch" Guid="c2d13756-89c4-430f-a4f5-e012f84a06c8" /><DocumentWindow Key="C:\Users\andre\Universidad_codigo\control_de_movimiento\Laboratorio2\Laboratorio2.cydsn\main.c" Guid="16fbbe90-d446-4a5e-aa76-5ffa20da2328" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

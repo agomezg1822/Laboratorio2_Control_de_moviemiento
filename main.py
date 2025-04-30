@@ -2,6 +2,7 @@ import customtkinter as ctk
 import serial
 
 estado_motor = 0
+pwm_val = 0
 
 ## Configuración del puerto serial
 puerto_serial = 'COM6'  # Cambia esto al puerto correcto
@@ -14,6 +15,8 @@ envio_serial= serial.Serial(puerto_serial,baud_rate)
 def motor_derecha():
     label_estado.configure(text="Estado del motor: girando a la derecha")
     serial = (f"D\n".encode()) #D de derecha
+    envio_serial.write(serial) 
+    serial = pwm_val
     print(f"Motor girando a la derecha: {serial}")
     envio_serial.write(serial)  # Enviar el comando al puerto serial
 
@@ -21,7 +24,10 @@ def motor_derecha():
 def motor_izquierda():
     label_estado.configure(text="Estado del motor: girando a la izquierda")
     serial = (f"I\n".encode()) #I de izquierda
+    envio_serial.write(serial) 
     print(f"Motor girando a la izquierda: {serial}")
+    serial = pwm_val
+    print(serial)
     envio_serial.write(serial)  # Enviar el comando al puerto serial
 
 def motor_stop():
@@ -33,8 +39,11 @@ def motor_stop():
 def slider_value(pwm_value):
     label_slider.configure(text=f"PWM: {int(pwm_value)}")
     serial = (f"{int(pwm_value)}\n".encode())  
-    print(f"Enviando PWM: {serial}") 
+    pwm_val = pwm_value  # Convertir el valor del slider a entero
+    #print(f"Enviando PWM: {serial}") 
+    print(f"Enviando PWM: {pwm_val}")
     envio_serial.write(serial)  # Enviar el valor PWM al puerto serial
+
 
 
 ##INTERFAZ
